@@ -1,0 +1,115 @@
+Adelaide
+Albany 
+Albury 
+Alice Springs 
+Armidale 
+Bairnsdale 
+Ballarat
+Ballina 
+Batemans Bay 
+Bathurst 
+Bendigo
+Bomaderry 
+Boulder 
+Bowral 
+Brisbane
+Broken Hill 
+Broome 
+Bunbury 
+Bundaberg
+Burnie
+Busselton 
+Cairns
+Camden Haven 
+Canberra
+Coffs Harbour
+Colac 
+Cooranbong 
+Darwin 
+Devonport 
+Drouin 
+Dubbo
+Echuca
+Emerald 
+Esperance 
+Forster 
+Geelong
+Geraldton
+Gladstone 
+Gold Coast 
+Goolwa 
+Goulburn 
+Grafton 
+Griffith 
+Gympie 
+Hervey Bay
+Hobart
+Horsham 
+Kalgoorlie
+Karratha 
+Kempsey 
+Kingaroy 
+Launceston 
+Lismore 
+Lithgow 
+Mackay 
+Maitland 
+Maryborough 
+Melbourne
+Mildura 
+Mittagong 
+Moama
+Moe 
+Mooroopna 
+Morisset 
+Morwell 
+Mount Gambier 
+Mount Isa
+Mudgee 
+Murray Bridge 
+Muswellbrook 
+Nelson Bay 
+Newborough 
+Newcastle 
+Nowra 
+Orange 
+Parkes 
+Perth
+Port Augusta 
+Port Hedland 
+Port Lincoln 
+Port Macquarie
+Port Pirie 
+Portland 
+Queanbeyan
+Rockhampton
+Sale 
+Sanctuary Point 
+Shepparton 
+Singleton 
+St Georges Basin
+Sunshine Coast 
+Swan Hill 
+Sydney
+Tamworth 
+Tannum Sands 
+Taree 
+Toowoomba
+Townsville
+Traralgon 
+Tuncurry 
+Tweed Heads 
+Ulladulla 
+Ulverstone 
+Victor Harbor 
+Wagga Wagga
+Wangaratta 
+Warragul 
+Warrnambool
+Warwick 
+Wentworth 
+Whyalla 
+Wodonga 
+Wollongong
+Wynyard 
+Yeppoon 

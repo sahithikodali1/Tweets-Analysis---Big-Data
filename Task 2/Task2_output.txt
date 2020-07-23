@@ -1,0 +1,22 @@
+['No configs found; falling back on auto-configuration',
+ 'No configs specified for inline runner',
+ 'Creating temp directory '
+ 'C:\\Users\\SAHITH~1\\AppData\\Local\\Temp\\Task2_sourcecode.Sahithi '
+ 'kodali.20200510.111934.116905',
+ 'Running step 1 of 1...',
+ 'job output is in '
+ 'C:\\Users\\SAHITH~1\\AppData\\Local\\Temp\\Task2_sourcecode.Sahithi '
+ 'kodali.20200510.111934.116905\\output',
+ 'Streaming final output from '
+ 'C:\\Users\\SAHITH~1\\AppData\\Local\\Temp\\Task2_sourcecode.Sahithi '
+ 'kodali.20200510.111934.116905\\output...',
+ '"Adelaide"\t439',
+ '"Brisbane"\t1189',
+ '"Canberra"\t136',
+ '"Hobart"\t57',
+ '"Melbourne"\t1703',
+ '"Perth"\t360',
+ '"Sydney"\t2010',
+ 'Removing temp directory '
+ 'C:\\Users\\SAHITH~1\\AppData\\Local\\Temp\\Task2_sourcecode.Sahithi '
+ 'kodali.20200510.111934.116905...']
